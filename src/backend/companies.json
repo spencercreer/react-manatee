@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Kelly Spicers",
+    "url": "kellyspicers.com",
+    "contacts": [
+      {
+        "firstName": "John",
+        "lastName": "Doe",
+        "title": "CEO",
+        "campaign": "Ideal Client",
+        "sequence": "text"
+      },
+      {
+        "firstName": "Sally",
+        "lastName": "Brown",
+        "title": "Logistics Manager"
+      },
+      {
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "title": "Sales Manager"
+      },
+      {
+        "firstName": "Jim",
+        "lastName": "Smith",
+        "title": "Warehouse Associate"
+      },
+      {
+        "firstName": "Tobias",
+        "lastName": "Funke",
+        "title": "Operations Manager"
+      },
+      {
+        "firstName": "Lindsey",
+        "lastName": "Jones",
+        "title": "All Other C-Level"
+      }
+    ],
+    "createdAt": "01-01-2024",
+    "updateddAt": "01-01-2024"
+  },
+  {
+    "name": "Simple Packaging",
+    "url": "simplepackaging.com",
+    "contacts": [],
+    "createdAt": "01-01-2024",
+    "updateddAt": "01-01-2024"
+  },
+  {
+    "name": "Flair Packaging",
+    "url": "flairpackaging.com",
+    "contacts": [],
+    "createdAt": "01-01-2024",
+    "updateddAt": "01-01-2024"
+  },
+  {
+    "name": "Nu plastic Company",
+    "url": "nuplasticcompany.com",
+    "contacts": [],
+    "createdAt": "01-01-2024",
+    "updateddAt": "01-01-2024"
+  },
+  {
+    "name": "Epoxy Inc.",
+    "url": "epoxyinc.com",
+    "contacts": [],
+    "createdAt": "01-01-2024",
+    "updateddAt": "01-01-2024"
+  },
+  {
+    "name": "Plastic Supply Giants",
+    "url": "plasticsupplygiants.com",
+    "contacts": [],
+    "createdAt": "01-01-2024",
+    "updateddAt": "01-01-2024"
+  },
+  {
+    "name": "Amazing Cat Litter",
+    "url": "amazingcatlitter.com",
+    "contacts": [],
+    "createdAt": "01-01-2024",
+    "updateddAt": "01-01-2024"
+  }
+]

@@ -12,7 +12,7 @@ function Button({ children, className, ...props }: ButtonProps) {
     <div className={className}>
       <button
         {...props}
-        className="w-full h-9 bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:border-blue-700 focus:ring focus:ring-blue-200"
+        className="flex items-center justify-center w-full h-9 bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-600 focus:outline-none focus:border-blue-700 focus:ring focus:ring-blue-200"
       >
         {children}
       </button>

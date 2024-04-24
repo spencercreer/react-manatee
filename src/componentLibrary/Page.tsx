@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../components/Navbar";
+import Navbar from "./Navbar";
 
 function Page({ children }: { children: JSX.Element }) {
   return (
